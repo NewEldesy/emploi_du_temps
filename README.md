@@ -67,19 +67,3 @@ Ce projet est une application web de gestion d'emploi du temps pour une école. 
 3. **Supprimer un événement** :
 
   - **(À implémenter si nécessaire) Cliquez sur un événement pour afficher les options de suppression.**
-
-### Structure du Projet
-
-/emploi-du-temps
-    /css
-        fullcalendar.css
-    /js
-        jquery.min.js
-        fullcalendar.min.js
-    /php
-        config.php
-        get_events.php
-        save_event.php
-    index.php
-    README.md
-    bdd_emploi_du_temps.txt
