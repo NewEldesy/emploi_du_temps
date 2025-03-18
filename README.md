@@ -44,6 +44,7 @@ Ce projet est une application web de gestion d'emploi du temps pour une école. 
   - **Modifiez le fichier php/config.php pour y ajouter les informations de connexion à votre base de données**
 
 4. **Installer les dépendances** :
+
   - **Téléchargez les bibliothèques jQuery et FullCalendar et placez-les dans les dossiers js/ et css/ respectivement.**
 
 5. **Démarrer le serveur** :
