@@ -31,7 +31,7 @@ Ce projet est une application web de gestion d'emploi du temps pour une école. 
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/emploi-du-temps.git
+   git clone https://github.com/NewEldesy/emploi_du_temps.git
    cd emploi-du-temps ```
 
 3. **Configurer la base de données** :
